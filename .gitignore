@@ -1,0 +1,7 @@
+db.sqlite3
+geckodriver.log
+virtualenv
+.ipynb_checkpoints
+__pycache__
+*.pyc
+geckodriver.exe
