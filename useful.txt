@@ -1,0 +1,3 @@
+ssh elspeth@157.245.141.98
+export SITENAME=klh-staging.phalco.tk 
+git clone https://github.com/huangkevin96/phalco.git ~/sites/$SITENAME
